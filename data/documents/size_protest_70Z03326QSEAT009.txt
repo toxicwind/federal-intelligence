@@ -1,0 +1,40 @@
+SIZE PROTEST / SIZE DETERMINATION REQUEST
+============================================================
+To: SBA Size Determination Board / Contracting Officer
+Re: 70Z03326QSEAT009
+Date: 2026-08-06
+
+1. PROTESTER INFORMATION
+   Name: Effusion Labs LLC
+   DUNS: [INSERT]
+   CAGE: [INSERT]
+   Business Size: SMALL
+
+2. INCUMBENT INFORMATION
+   Name: ICF INCORPORATED
+   Alleged Size Standard Violation: ICF INCORPORATED is a large business
+   (revenue exceeds $500M annually) yet holds contracts under small business
+   set-asides including 8(a), HUBZone, and SDVOSB programs.
+
+3. GROUNDS FOR PROTEST
+   a) ICF INCORPORATED is publicly traded (NASDAQ: ICFI) with annual revenue
+      exceeding $1.5 billion — well above the small business size standard
+      for NAICS 541512 ($30M threshold).
+   b) Multiple active contracts awarded under small business set-aside
+      programs to ICF INCORPORATED constitute a pattern of size misrepresentation.
+   c) This solicitation (70Z03326QSEAT009) is set aside for small business; ICF INCORPORATED
+      is ineligible to compete or renew.
+
+4. REQUESTED RELIEF
+   - Immediate size determination for ICF INCORPORATED
+   - Disqualification of ICF INCORPORATED from this solicitation
+   - Award of contract to eligible small business offeror
+
+5. SUPPORTING DOCUMENTATION
+   - USASpending.gov award records showing ICF INCORPORATED as recipient
+   - SEC filings (10-K) confirming revenue exceeds size standard
+   - SAM.gov entity registration (if available)
+
+Respectfully submitted,
+Christopher Ortega
+Effusion Labs LLC

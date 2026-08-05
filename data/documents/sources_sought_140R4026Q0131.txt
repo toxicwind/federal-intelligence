@@ -1,0 +1,42 @@
+SOURCES SOUGHT RESPONSE — Effusion Labs LLC
+============================================================
+To: Contracting Officer
+Re: 140R4026Q0131 — Provo Area Office Camera Crawler
+Date: 2026-08-06
+
+1. COMPANY INFORMATION
+   Name: Effusion Labs LLC
+   DUNS: [INSERT DUNS]
+   CAGE: [INSERT CAGE]
+   Business Size: SMALL
+   Set-Aside Eligibility: SB
+
+2. CAPABILITY SUMMARY
+   Effusion Labs LLC specializes in LLM infrastructure, GPU resource allocation,
+   and distributed data engineering. We have direct experience with:
+   - Bare-metal LLM serving (27B+ parameter models)
+   - Kubernetes orchestration at scale
+   - Real-time data pipelines (Spark, Kafka, Kinesis)
+   - Prompt security evaluation (HackAPrompt 2025 Top-10)
+
+3. PAST PERFORMANCE REFERENCES
+   [1] Charter Communications — Platform Technical Lead (2019-2023)
+       Contact: [INSERT] | Scope: Subscriber segmentation backend, Spark/Kafka
+   [2] Access Data Consulting — Software Engineer (2017-2019)
+       Contact: [INSERT] | Scope: Real-time targeting API integration
+
+4. WHY WE CAN PERFORM THIS WORK
+   - No security clearance required — immediate start capability
+   - Small business agility with enterprise-grade reliability
+   - Direct technical expertise in python, typescript, scala, rust, kubernetes
+
+5. REQUEST FOR INFORMATION
+   We respectfully request:
+   a) Confirmation of NAICS code applicability (541511, 541512, 541519)
+   b) Estimated contract value and period of performance
+   c) Whether a site visit or oral presentation will be required
+   d) Timeline for release of formal solicitation
+
+Respectfully submitted,
+Christopher Ortega
+Effusion Labs LLC

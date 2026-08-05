@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-08-06T01:26:18.594944",
+  "generated": [
+    {
+      "id": "IT-1",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_IT-1.txt",
+      "location": "Denver CO",
+      "composite": 52
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_M67854-26-I-0225.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 46
+    },
+    {
+      "id": "FY24-0069",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_FY24-0069.txt",
+      "location": "Buckley SFB / Aurora CO",
+      "composite": 45
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_NUFOHRC_20260731.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 44
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_1333MJ26Q0034.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 44
+    },
+    {
+      "id": "F2XJA76154AW01",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_F2XJA76154AW01.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 44
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_W50S8V-26-Q-0026.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 42
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_W9132V-21-N-9967.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 41
+    },
+    {
+      "id": "N0016423Q0261",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_N0016423Q0261.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 39
+    },
+    {
+      "id": "N0016422RJW72",
+      "path": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents_80234/capability_80234_N0016422RJW72.txt",
+      "location": "Nationwide / Unknown",
+      "composite": 39
+    }
+  ]
+}

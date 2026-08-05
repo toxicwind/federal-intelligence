@@ -1,0 +1,19 @@
+[2026-08-06T00:50:42.369855] === ICF HUNTER v1.0 ===
+[2026-08-06T00:50:42.389135] Fetching ICF award history from USASpending...
+[2026-08-06T00:50:44.104315] ICF awards found: 100
+[2026-08-06T00:50:44.127887] Fetching active ICF contracts...
+[2026-08-06T00:50:44.928140] Active ICF contracts: 0
+[2026-08-06T00:50:44.928914] Hunting active sole-source opportunities...
+[2026-08-06T00:50:46.001418] query 'sole source software development' -> 0 results
+[2026-08-06T00:50:51.308783] query 'sole source cybersecurity' -> 0 results
+[2026-08-06T00:50:52.444880] query 'sole source data engineering' -> 0 results
+[2026-08-06T00:50:53.530406] query 'sole source artificial intelligence' -> 0 results
+[2026-08-06T00:50:58.838048] query 'limited competition IT' -> 0 results
+[2026-08-06T00:51:04.151240] query 'only one responsible source' -> 0 results
+[2026-08-06T00:51:05.256062] query 'urgent requirement prototype' -> 0 results
+[2026-08-06T00:51:10.563208] query 'pilot program sole source' -> 0 results
+[2026-08-06T00:51:12.273089] query '8(a) sole source' -> 0 results
+[2026-08-06T00:51:13.852771] query 'small business set-aside sole source' -> 0 results
+[2026-08-06T00:51:14.153288] Unique active opportunities: 0
+[2026-08-06T00:51:14.153674] Fillable opportunities: 0
+[2026-08-06T00:51:14.154191] === DONE ===

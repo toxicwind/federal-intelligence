@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-08-06T01:04:12.759486",
+  "generated": [
+    {
+      "id": "IT-1",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_IT-1.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_IT-1.txt",
+      "size_protest": null
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_1333MJ26Q0034.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_1333MJ26Q0034.txt",
+      "size_protest": null
+    },
+    {
+      "id": "F2XJA76154AW01",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_F2XJA76154AW01.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_F2XJA76154AW01.txt",
+      "size_protest": null
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_M67854-26-I-0225.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_M67854-26-I-0225.txt",
+      "size_protest": null
+    },
+    {
+      "id": "FY24-0069",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_FY24-0069.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_FY24-0069.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_FY24-0069.txt"
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_NUFOHRC_20260731.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_NUFOHRC_20260731.txt",
+      "size_protest": null
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_W50S8V-26-Q-0026.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_W50S8V-26-Q-0026.txt",
+      "size_protest": null
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_W9132V-21-N-9967.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_W9132V-21-N-9967.txt",
+      "size_protest": null
+    },
+    {
+      "id": "N0016423Q0261",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_N0016423Q0261.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_N0016423Q0261.txt",
+      "size_protest": null
+    },
+    {
+      "id": "N0016422RJW72",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_N0016422RJW72.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_N0016422RJW72.txt",
+      "size_protest": null
+    },
+    {
+      "id": "140R4026Q0131",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_140R4026Q0131.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_140R4026Q0131.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_140R4026Q0131.txt"
+    },
+    {
+      "id": "70Z08026QRN062",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_70Z08026QRN062.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_70Z08026QRN062.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_70Z08026QRN062.txt"
+    },
+    {
+      "id": "70z08026QDE027",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_70z08026QDE027.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_70z08026QDE027.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_70z08026QDE027.txt"
+    },
+    {
+      "id": "70Z08026QAK038",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_70Z08026QAK038.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_70Z08026QAK038.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_70Z08026QAK038.txt"
+    },
+    {
+      "id": "70Z03326QSEAT009",
+      "capability": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/capability_70Z03326QSEAT009.txt",
+      "sources_sought": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/sources_sought_70Z03326QSEAT009.txt",
+      "size_protest": "/mnt/agents/output/sam-autoscraper/autonomous_federal_api/run/documents/size_protest_70Z03326QSEAT009.txt"
+    }
+  ]
+}
